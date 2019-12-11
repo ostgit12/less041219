@@ -15,7 +15,7 @@
 //Symbol - символ унікальний незмінний ідентифікатор
 
 
-
+/*
 let bestGreetings = 'Hello';
 alert(bestGreetings);
 bestGreetings = 'Java Script';
@@ -43,3 +43,4 @@ function addOne(num){
     const incremented = num + 1;
     return incremented;
 }
+*/
